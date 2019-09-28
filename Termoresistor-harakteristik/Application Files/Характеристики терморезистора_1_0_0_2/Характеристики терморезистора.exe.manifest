@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Характеристики терморезистора.exe" version="1.0.0.2" publicKeyToken="7a8ee2083a4ba003" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Характеристики терморезистора" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Характеристики терморезистора.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Задание узла requestedExecutionLevel отключит виртуализацию файла и реестра.
+            Если виртуализацию файла и реестра нужно использовать для обратной 
+            совместимости, удалите узел requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Характеристики терморезистора.exe" size="15872">
+      <assemblyIdentity name="Характеристики терморезистора" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>amgDDIwcCFRnSXuToJaeW0QZ2iY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Список всех версий Windows, с которыми это приложение предназначено работать. Windows автоматически выберет наиболее совместимую среду.-->
+      <!-- Если приложение предназначено для работы с Windows 7, раскомментируйте следующий узел supportedOS-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=АНДРЕЙ-ПК\Андрiй" issuerKeyHash="4a0dc94041d60132fd3df826d04df2c92ad16cfc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AWhNGjdPQA6TVvy9gu9x3kldZ8I=</DigestValue></Reference></SignedInfo><SignatureValue>LDlR5fuefEvIq62aHORILm7rsObNB0B+BixSCkbg7y8DB6qmAEii18WSdwXH8OhJvotcY9o7KuPLuUFn8g0kFwkeWDkbBkB7F2CsH9M78A/8bFo7Mao5s2xZ/tx9dk2AGCB7v6EXbNSAVdBnY4rAU/tnEWDehmeO9+o6le0UWJo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>q3L0DYbyyu0Wf7lxXXV9j9hTT4TDINQgrL5tq+giIhaIG5suonnRtepfnLEW24twabhAled5KK2NMCMjbUR4Tl7sS5e2i9cZjQui7V+i1CHYw0D7HwG6z7577+Q54lX2ChSZVGMG2t1EWqzPD1l9AwGFeEY7TVI0DGNv1P2iXYE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c2675d49de71ef82bdfc56930e404f371a4d6801" Description="" Url=""><as:assemblyIdentity name="Характеристики терморезистора.exe" version="1.0.0.2" publicKeyToken="7a8ee2083a4ba003" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=АНДРЕЙ-ПК\Андрiй</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5sREPlMYyBDkV/ggZ3o4dXc8iYU=</DigestValue></Reference></SignedInfo><SignatureValue>RPv/rjJYXjm9KLT+KXf6b01sW+0qHrxw5t8ByZL2vF6aRTePv+dGFO03Q0w0hasL+tW4fX7aD1Pe3BlTGULU7Uru3r6D6TH10zZIRuZ0lQuRB8Bs+geOoRVJO2bjuWmzPqwRn/zIg+uTD61+zVnZZ8lk9w6oHyMrunm0iZ1VT0M=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>q3L0DYbyyu0Wf7lxXXV9j9hTT4TDINQgrL5tq+giIhaIG5suonnRtepfnLEW24twabhAled5KK2NMCMjbUR4Tl7sS5e2i9cZjQui7V+i1CHYw0D7HwG6z7577+Q54lX2ChSZVGMG2t1EWqzPD1l9AwGFeEY7TVI0DGNv1P2iXYE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQGXKa+FEf0aZEkpnhBazz8jANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAEEAQdBBQEIAQVBBkALQQfBBoAXAQQBD0ENARAAGkEOTAeFw0xNTAyMTkxNDA1MDJaFw0xNjAyMTkyMDA1MDJaMCsxKTAnBgNVBAMeIAQQBB0EFAQgBBUEGQAtBB8EGgBcBBAEPQQ0BEAAaQQ5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrcvQNhvLK7RZ/uXFddX2P2FNPhMMg1CCsvm2r6CIiFogbmy6iedG16l+csRbbi3BpuECV53korY0wIyNtRHhOXuxLl7aL1xmNC6LtX6LUIdjDQPsfAbrPvnvv5DniVfYKFJlUYwba3URarM8PWX0DAYV4RjtNUjQMY2/U/aJdgQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAKWuF9aiypx2yVNyGnvzr8rcpubgtBvzcKvN2ipd1SP6jM4XAa9TFex3G/+ctlwO1Ja/fQEbNPqQPks1RMaDHZzC0qw0hGNkBlu+6CnSLEzj+iQliADY4MS70MFbfkqDb+r48ictZaQale+fbcPVp3jvTxpExntMMRmQD46rJufX</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

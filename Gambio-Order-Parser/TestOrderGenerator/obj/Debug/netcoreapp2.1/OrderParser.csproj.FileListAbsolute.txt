@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\client_secret.json
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\OrderParser.deps.json
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\OrderParser.runtimeconfig.json
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\OrderParser.runtimeconfig.dev.json
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\OrderParser.dll
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\OrderParser.pdb
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\obj\Debug\netcoreapp2.1\OrderParser.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\obj\Debug\netcoreapp2.1\OrderParser.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\obj\Debug\netcoreapp2.1\OrderParser.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\obj\Debug\netcoreapp2.1\OrderParser.AssemblyInfo.cs
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\obj\Debug\netcoreapp2.1\OrderParser.csproj.CopyComplete
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\obj\Debug\netcoreapp2.1\OrderParser.dll
+C:\Users\user\source\repos\TestOrderGenerator\TestOrderGenerator\obj\Debug\netcoreapp2.1\OrderParser.pdb

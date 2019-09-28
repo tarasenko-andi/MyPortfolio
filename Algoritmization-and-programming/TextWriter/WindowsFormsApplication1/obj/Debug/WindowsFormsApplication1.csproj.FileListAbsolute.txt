@@ -1,0 +1,23 @@
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Мої документи\Юрко\USEFUL FILES\Visual Studio\C# Education\Windows forms apps\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

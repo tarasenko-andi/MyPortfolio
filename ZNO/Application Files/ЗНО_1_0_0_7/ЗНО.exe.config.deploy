@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="ЗНО.Properties.Settings.БазаConnectionString" connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\База.mdf;Integrated Security=True;Connect Timeout=30"
+            providerName="System.Data.SqlClient" />
+        <add name="ЗНО.Properties.Settings.БазаConnectionString1" connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\Андрiй\Documents\База.mdf;Integrated Security=True;Connect Timeout=30"
+            providerName="System.Data.SqlClient" />
+        <add name="ЗНО.Properties.Settings.ЗНОConnectionString" connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\ЗНО.mdf;Integrated Security=True;Connect Timeout=30"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>

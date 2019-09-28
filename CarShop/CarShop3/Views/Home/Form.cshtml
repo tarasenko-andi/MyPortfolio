@@ -1,0 +1,18 @@
+﻿
+<td class="big_card" colspan="3">
+    <img alt="Изображение" src="/Content/images/Form.png">
+    <form onsubmit="return false" action="Home/Form" method="post">
+        <fieldset>
+            <legend>Оформление заказа</legend> 
+            <input name="Name" placeholder="Введите ваше имя" required="" type="text"><br>
+            <!--Тут ошибка--> 
+            <input name="Tel" placeholder="Введите номер телефона в формате 8-ххх-ххх-хххх" required="" patern="8-[0-9]{3}-[0-9]{3}-[0-9]{4}" type="tel"><br>
+            <!--Тут ошибка-->
+            <select name="Car">
+                @Html.Action("FormOptions", "Home", new { item_id = ViewBag.Item })
+            </select>
+            <br>
+            <input type="submit">
+        </fieldset>
+    </form>
+</td>

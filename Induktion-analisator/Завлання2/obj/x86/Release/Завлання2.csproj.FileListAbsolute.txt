@@ -1,0 +1,25 @@
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання2.exe.manifest
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання2.application
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання2.exe
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання2.pdb
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.Form1.resources
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.Properties.Resources.resources
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.csproj.GenerateResource.Cache
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання2.exe.manifest
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання2.application
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання2.exe
+C:\Users\Андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання2.pdb
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.csprojResolveAssemblyReference.cache
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.csprojResolveAssemblyReference.cache
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.Form1.resources
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.Properties.Resources.resources
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.csproj.GenerateResource.Cache
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завлання2.Form2.resources
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання 2.exe.manifest
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання 2.application
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання 2.exe
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\bin\Release\Завдання 2.pdb
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання 2.exe.manifest
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання 2.application
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання 2.exe
+D:\Програми написані мною\Visual Studio 2010\Projects\Завлання2\Завлання2\obj\x86\Release\Завдання 2.pdb

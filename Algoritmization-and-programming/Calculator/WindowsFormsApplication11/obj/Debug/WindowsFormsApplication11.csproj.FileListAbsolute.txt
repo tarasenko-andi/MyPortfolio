@@ -1,0 +1,51 @@
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\C#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form2.resources
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form2.resources
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\навчання лаби\Алгоритмізація\лаби\лаб 8\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 гуцук\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+F:\Аглоритмізація та програмування\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+F:\Аглоритмізація та програмування\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+F:\Аглоритмізація та програмування\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojAssemblyReference.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 8 Тарасенко\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb

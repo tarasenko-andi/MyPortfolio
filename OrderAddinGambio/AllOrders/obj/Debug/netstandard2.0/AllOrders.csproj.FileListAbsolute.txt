@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\bin\Debug\netstandard2.0\AllOrders.deps.json
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\bin\Debug\netstandard2.0\AllOrders.dll
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\obj\Debug\netstandard2.0\AllOrders.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\obj\Debug\netstandard2.0\AllOrders.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\obj\Debug\netstandard2.0\AllOrders.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\obj\Debug\netstandard2.0\AllOrders.AssemblyInfo.cs
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\bin\Debug\netstandard2.0\AllOrders.pdb
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\obj\Debug\netstandard2.0\AllOrders.dll
+C:\Users\user\source\repos\OrderAddinGambio\AllOrders\obj\Debug\netstandard2.0\AllOrders.pdb

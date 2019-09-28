@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\OrderAddinGambio.deps.json
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\OrderAddinGambio.runtimeconfig.json
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\OrderAddinGambio.runtimeconfig.dev.json
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\OrderAddinGambio.dll
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\obj\Debug\netcoreapp2.1\OrderAddinGambio.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\obj\Debug\netcoreapp2.1\OrderAddinGambio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\obj\Debug\netcoreapp2.1\OrderAddinGambio.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\obj\Debug\netcoreapp2.1\OrderAddinGambio.AssemblyInfo.cs
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\OrderAddinGambio.pdb
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\obj\Debug\netcoreapp2.1\OrderAddinGambio.csproj.CopyComplete
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\obj\Debug\netcoreapp2.1\OrderAddinGambio.dll
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\obj\Debug\netcoreapp2.1\OrderAddinGambio.pdb
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\Customer.dll
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\Order.dll
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\Customer.pdb
+C:\Users\user\source\repos\OrderAddinGambio\OrderAddinGambio\bin\Debug\netcoreapp2.1\Order.pdb

@@ -1,0 +1,33 @@
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.exe
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.pdb
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csprojResolveAssemblyReference.cache
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Properties.Resources.resources
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csproj.GenerateResource.Cache
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.exe
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.pdb
+C:\Users\ХхХ\documents\visual studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Green_Caper.resources
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.exe
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.pdb
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.exe
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.pdb
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csprojResolveAssemblyReference.cache
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Green_Caper.resources
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Properties.Resources.resources
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csproj.GenerateResource.Cache
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.exe
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.pdb
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.exe
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.pdb
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csprojResolveAssemblyReference.cache
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Green_Caper.resources
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Properties.Resources.resources
+D:\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csproj.GenerateResource.Cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\bin\Debug\Green Caper.pdb
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csprojAssemblyReference.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Green_Caper.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green_Caper.Properties.Resources.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csproj.GenerateResource.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\Green Caper\Green Caper\obj\x86\Debug\Green Caper.pdb

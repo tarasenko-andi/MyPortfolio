@@ -1,0 +1,147 @@
+{
+  "_links": [
+    {}
+  ],
+  "id": 400705,
+  "statusId": 149,
+  "purchaseDate": "2019-09-21 11:22:39",
+  "currencyCode": "EUR",
+  "languageCode": "DE",
+  "comment": "Coment",
+  "totalWeight": 15,
+  "paymentType": {
+    "title": "cash",
+    "module": "cash"
+  },
+  "shippingType": {
+    "title": "Pauschale Versandkosten (Standar)",
+    "module": "flat_flat"
+  },
+  "customer": {
+    "id": 365,
+    "number": "",
+    "email": "Helen@wienkiew.com5",
+    "phone": "0421 - 22 34 678",
+    "vatId": "",
+    "status": {
+      "id": 2,
+      "name": "Neuer Kunde",
+      "image": "customer_status.gif",
+      "discount": 0,
+      "isGuest": false
+    }
+  },
+  "addresses": {
+    "customer": {
+      "gender": "m",
+      "firstname": "Firstname",
+      "lastname": "Lastname",
+      "company": "Company",
+      "street": "Street",
+      "houseNumber": "123",
+      "additionalAddressInfo": "",
+      "suburb": "",
+      "postcode": "28219",
+      "city": "Bremen",
+      "countryId": 1,
+      "zoneId": 1,
+      "b2bStatus": false
+    },
+    "billing": {
+      "gender": "m",
+      "firstname": "Firstname",
+      "lastname": "Lastname",
+      "company": "Company",
+      "street": "Street",
+      "houseNumber": "Hnum",
+      "additionalAddressInfo": "",
+      "suburb": "",
+      "postcode": "28219",
+      "city": "Bremen",
+      "countryId": 1,
+      "zoneId": 1,
+      "b2bStatus": false
+    },
+    "delivery": {
+      "gender": "m",
+      "firstname": "Firstname",
+      "lastname": "Lastname",
+      "company": "Company",
+      "street": "Street",
+      "houseNumber": "Hnum",
+      "additionalAddressInfo": "",
+      "suburb": "",
+      "postcode": "28219",
+      "city": "Bremen",
+      "countryId": 1,
+      "zoneId": 1,
+      "b2bStatus": false
+    }
+  },
+  "items": [
+    {
+      "id": 3186,
+      "model": "Model",
+      "name": "ItemName",
+      "quantity": 1,
+      "price": 100,
+      "finalPrice": 100,
+      "tax": 20,
+      "isTaxAllowed": true,
+      "discount": 0,
+      "shippingTimeInformation": "",
+      "checkoutInformation": "",
+      "attributes": {
+        "id": 1,
+        "name": "Farbe",
+        "value": "rot",
+        "price": 0,
+        "priceType": "+",
+        "optionId": 1,
+        "optionValueId": 1,
+        "combisId": null
+      },
+      "downloadInformation": {
+        "countAvailable": 14,
+        "filename": "Dokument.pdf",
+        "maxDaysAllowed": 5
+      },
+      "addonValues": {
+        "productId": 2,
+        "quantityUnitId": 1
+      },
+      "quantityUnitName": "Liter"
+    }
+  ],
+  "totals": [
+    {
+      "id": 1,
+      "title": "Zwischensumme, netto:",
+      "value": 120,
+      "valueText": "120,00 EUR",
+      "class": "ot_subtotal",
+      "sortOrder": 10
+    }
+  ],
+  "statusHistory": [
+    {
+      "id": 1181,
+      "statusId": 149,
+      "dateAdded": "2019-09-21 11:22:39",
+      "comment": "",
+      "customerNotified": true
+    }
+  ],
+  "addonValues": {
+    "ccCvv": "",
+    "ccExpires": "",
+    "ccIssue": "",
+    "ccNumber": "",
+    "ccOwner": "",
+    "ccStart": "",
+    "ccType": "",
+    "customerIp": "",
+    "downloadAbandonmentStatus": "0",
+    "serviceAbandonmentStatus": "0"
+  }
+}

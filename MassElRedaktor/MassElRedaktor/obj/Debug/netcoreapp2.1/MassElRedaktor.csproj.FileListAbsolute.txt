@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\bin\Debug\netcoreapp2.1\MassElRedaktor.deps.json
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\bin\Debug\netcoreapp2.1\MassElRedaktor.runtimeconfig.json
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\bin\Debug\netcoreapp2.1\MassElRedaktor.runtimeconfig.dev.json
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\bin\Debug\netcoreapp2.1\MassElRedaktor.dll
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\bin\Debug\netcoreapp2.1\MassElRedaktor.pdb
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\obj\Debug\netcoreapp2.1\MassElRedaktor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\obj\Debug\netcoreapp2.1\MassElRedaktor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\obj\Debug\netcoreapp2.1\MassElRedaktor.AssemblyInfo.cs
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\obj\Debug\netcoreapp2.1\MassElRedaktor.dll
+C:\Users\user\source\repos\MassElRedaktor\MassElRedaktor\obj\Debug\netcoreapp2.1\MassElRedaktor.pdb

@@ -1,0 +1,34 @@
+c:\users\андрiй\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+c:\users\андрiй\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\андрiй\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.exe.manifest
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.application
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.exe
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.pdb
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.TrustInfo.xml
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.exe.manifest
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.application
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.exe
+C:\Users\Андрiй\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.pdb
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.exe
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.pdb
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.exe.manifest
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.application
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.exe
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Характеристики терморезистора.pdb
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Properties.Resources.resources
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.TrustInfo.xml
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.exe.manifest
+D:\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.application
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.TrustInfo.xml
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Програми написані мною\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\Характеристики терморезистора.pdb

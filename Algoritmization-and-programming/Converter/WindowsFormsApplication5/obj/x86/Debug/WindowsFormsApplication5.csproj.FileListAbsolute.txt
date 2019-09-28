@@ -1,0 +1,57 @@
+c:\users\bodbka_limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\bodbka_limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\bodbka_limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\bodbka_limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\bodbka_limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\bodbka_limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+c:\users\bodbka_limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Bodbka_Limon\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Nazar\Desktop\Новая папка\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\pnks11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kn11.KTPNLNTU\Desktop\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Аглоритмізація та програмування\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojAssemblyReference.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\user\Google Диск\Навчання та напрацювання\Навчання\1 курс\Аглоритмізація та програмування\Семестр 1\алгоритмізація\лаб 7\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb

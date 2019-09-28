@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\obj\Debug\netstandard2.0\Customer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\obj\Debug\netstandard2.0\Customer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\obj\Debug\netstandard2.0\Customer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\obj\Debug\netstandard2.0\Customer.AssemblyInfo.cs
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\bin\Debug\netstandard2.0\Customer.deps.json
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\bin\Debug\netstandard2.0\Customer.dll
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\bin\Debug\netstandard2.0\Customer.pdb
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\obj\Debug\netstandard2.0\Customer.dll
+C:\Users\user\source\repos\OrderAddinGambio\AllCustomer\obj\Debug\netstandard2.0\Customer.pdb

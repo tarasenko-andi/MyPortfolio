@@ -1,0 +1,11 @@
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Debug\Завлання2.Form1.resources
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Debug\Завлання2.Properties.Resources.resources
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Debug\Завлання2.csproj.GenerateResource.Cache
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Debug\Завдання2.exe
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Debug\Завдання2.pdb
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Debug\Завдання2.exe
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Debug\Завдання2.pdb
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Debug\Завдання2.exe.manifest
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\bin\Debug\Завдання2.application
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Debug\Завдання2.exe.manifest
+c:\users\андрiй\documents\visual studio 2010\Projects\Завлання2\Завлання2\obj\x86\Debug\Завдання2.application
